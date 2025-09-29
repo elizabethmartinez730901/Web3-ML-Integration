@@ -1,2 +1,15 @@
-# Web3-ML-Integration
-Web3-ML-Integration
+# AI Decentralization Log (AI 与去中心化日志)
+
+本仓库用于追踪人工智能（AI）与 Web3 技术结合的最新趋势、协议和潜在应用。
+
+本仓库旨在：
+1.  研究如何使用区块链技术来验证 AI 模型的训练过程。
+2.  分析去中心化 AI 计算平台的经济模型。
+
+---
+
+## 🤖 查看每日 AI/Web3 笔记
+
+所有最新的跨界研究和应用分析都记录在以下文件中：
+
+**👉 点击这里查看 [LINKS.md](./LINKS.md)**
